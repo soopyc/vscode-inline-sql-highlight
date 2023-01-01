@@ -1,11 +1,11 @@
 {
   "fileTypes": [],
-  "injectionSelector": "L:source -comment -string",
+  "injectionSelector": "L:source -string",
   "patterns": [
     {
       "name": "sqlQueries",
       "contentName": "meta.embedded.block.sql",
-      "begin": "..sql.. ?((`))",
+      "begin": "SQL(`)",
       "beginCaptures": {
         "1": {
           "name": "entity.name.function.tagged-template.js"
