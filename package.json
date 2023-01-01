@@ -2,7 +2,7 @@
 	"name": "vscode-inline-sql-highlight",
 	"displayName": "Inline SQL Highlight",
 	"description": "Highlights the SQL queries from your code",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"publisher": "derefs",
 	"license": "MIT",
 	"repository": {
